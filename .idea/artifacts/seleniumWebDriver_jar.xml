@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact name="seleniumWebDriver:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/seleniumWebDriver_jar</output-path>
+    <root id="root">
+      <element id="archive" name="seleniumWebDriver.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/src/main/resource/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="seleniumWebDriver" />
+        <element id="module-test-output" name="seleniumWebDriver" />
+      </element>
+    </root>
+  </artifact>
+</component>
